@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: CoverNews Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://time2movies.com/cms/wordpress
+Data file = /home/timemov1/public_html/cms/wordpress/wp-content/themes/covernews/demo-content/default/covernews.xml
+Widget file = /home/timemov1/public_html/cms/wordpress/wp-content/themes/covernews/demo-content/default/covernews.wie
+Customizer file = /home/timemov1/public_html/cms/wordpress/wp-content/themes/covernews/demo-content/default/covernews.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+CoverNews Tabbed Posts - No Title - Imported
+Tag Cloud - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+Meta - No Title - Widget already exists
+
+Front-page Content Section : 
+
+CoverNews Double Categories Posts - No Title - Imported
+CoverNews Posts Slider - No Title - Imported
+CoverNews Posts Grid - No Title - Imported
+CoverNews Posts Carousel - No Title - Imported
+
+Front-page Sidebar Section : 
+
+CoverNews Author Info - No Title - Imported
+CoverNews Tabbed Posts - No Title - Imported
+CoverNews Social Contacts - No Title - Imported
+
+Footer First Section : 
+
+Text - AF themes - Imported
+
+Footer Second Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Third Section : 
+
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
